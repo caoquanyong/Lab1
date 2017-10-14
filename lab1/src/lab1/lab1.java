@@ -1,5 +1,8 @@
  
+ 
 a change in B1 & C4
+ 
+ 
  
 package lab1;
 import java.io.*;
@@ -7,8 +10,13 @@ import java.util.*;
 import java.util.Map.Entry;
 
 
+ 
 
 
+ 
+//第一次修改
+//first change
+ 
 public class lab1 {
  
 	public static HashMap<String,HashMap<String,Integer>> Graph=new HashMap<String,HashMap<String,Integer>>();
@@ -152,7 +160,11 @@ public class lab1 {
 		}
 		}
 	}
+<<<<<<< HEAD
 	 
+=======
+	//第二次修改 
+>>>>>>> 150310712/master
 	public static String queryBridgeWords(String word1, String word2)
 	{
 		String [] array=new String[100];

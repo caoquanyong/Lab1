@@ -1,4 +1,5 @@
-package lab1;
+﻿package lab1;
+ 
  
 a change in B1 & C4 & B2
  
@@ -13,6 +14,10 @@ import java.io.InputStreamReader;
 
  
 
+ 
+ //first change
+//第一次修改
+ 
 public class GraphViz1
 {
    /**
