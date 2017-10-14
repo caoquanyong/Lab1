@@ -5,7 +5,7 @@ import java.util.Map.Entry;
 
 
 //第一次修改
-
+//first change
 public class lab1 {
  
 	public static HashMap<String,HashMap<String,Integer>> Graph=new HashMap<String,HashMap<String,Integer>>();
